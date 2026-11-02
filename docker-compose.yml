@@ -1,4 +1,5 @@
 # ---------------------------------------------------------------------------
+# 
 # OpsNova - local verification of the `external-db` profile (Stage 4).
 # NEVER used in class; the instructor deploys with Kubernetes manifests.
 #
